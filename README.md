@@ -1,2 +1,2 @@
 # Project-6
-Collected data regarding opinions on modern feminism
+This repository contains collected data from 10 different people regarding their opinions on modern feminism
